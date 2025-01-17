@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textextractor.io/static/css/main.6c5dcfb0.css",
+    "main.js": "/textextractor.io/static/js/main.de4b7bf3.js",
+    "static/js/488.ddffa090.chunk.js": "/textextractor.io/static/js/488.ddffa090.chunk.js",
+    "index.html": "/textextractor.io/index.html",
+    "main.6c5dcfb0.css.map": "/textextractor.io/static/css/main.6c5dcfb0.css.map",
+    "main.de4b7bf3.js.map": "/textextractor.io/static/js/main.de4b7bf3.js.map",
+    "488.ddffa090.chunk.js.map": "/textextractor.io/static/js/488.ddffa090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5dcfb0.css",
+    "static/js/main.de4b7bf3.js"
+  ]
+}
